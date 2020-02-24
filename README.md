@@ -1,0 +1,1 @@
+This is a temporal readme. Once project is finished, full documentation will be uploaded.
